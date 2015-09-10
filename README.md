@@ -3,8 +3,9 @@
 
 This is an experimental esp_mqtt fork with some small additional features added.
 
-* DHT22 Temperature/hygrometer driver adopted from Mikhail Grigorev's ![](https://github.com/CHERTS/esp8266-dht11_22)
-* DS18B20 Temperature driver from Mikhail Grigorev's ![]i(https://github.com/CHERTS/esp8266-devkit) with slight changes. 
+* DHT22 Temperature/hygrometer driver adopted from Mikhail Grigorev's [esp8266-dht11_22
+](https://github.com/CHERTS/esp8266-dht11_22)
+* DS18B20 Temperature driver from Mikhail Grigorev's [esp8266-devkit](https://github.com/CHERTS/esp8266-devkit) with slight changes. 
 * Topics and messages have been customized for Domoticz json syntax.
 * Licenses: 
 MIT License for esp_mqtt. 
